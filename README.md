@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emma Eriksson
 - 👀 I’m interested in programming because I love to create applications that can be helpful in life.
-- 🌱 I’m currently learning about React, and how to deploy code on Railway.
-- 💞️ Right now I am working on a project for my education at my new job.
+- 🌱 I’m currently learning about fullstack development with .NET and React.
+- 💞️ Right now I am working on a final project for my education at my new job.
 - 📫 How to reach me...
 
 <!---
